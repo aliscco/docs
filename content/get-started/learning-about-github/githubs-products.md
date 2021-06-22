@@ -1,3 +1,4 @@
+[gh_1.11.0_checksums.txt](https://github.com/github/docs/files/6693263/gh_1.11.0_checksums.txt)
 ---
 title: GitHub's products
 intro: 'An overview of {% data variables.product.prodname_dotcom %}''s products and pricing plans.'
